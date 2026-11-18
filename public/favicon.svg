@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#040711"/>
+  <!-- Knight Horns & Mask -->
+  <path d="M 16 10 C 18 20, 22 26, 26 30 C 24 24, 25 16, 23 10 C 27 15, 29 22, 32 28 C 35 22, 37 15, 41 10 C 39 16, 40 24, 38 30 C 42 26, 46 20, 48 10 C 45 22, 42 32, 42 38 C 42 48, 36 54, 32 54 C 28 54, 22 48, 22 38 C 22 32, 19 22, 16 10 Z" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Knight Eyes -->
+  <ellipse cx="27" cy="38" rx="3.5" ry="5.5" fill="#040711" transform="rotate(-8 27 38)"/>
+  <ellipse cx="37" cy="38" rx="3.5" ry="5.5" fill="#040711" transform="rotate(8 37 38)"/>
+  <!-- Soft Soul Glow -->
+  <ellipse cx="27" cy="37" rx="1.5" ry="2.5" fill="#38bdf8" opacity="0.85"/>
+  <ellipse cx="37" cy="37" rx="1.5" ry="2.5" fill="#38bdf8" opacity="0.85"/>
+</svg>
